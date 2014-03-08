@@ -1,0 +1,22 @@
+body{
+	font-family: Helvetica; 
+	color: yellow;
+	background-image: url('fancy-pants.jpg');
+}
+
+.text{
+
+	width: 600px;
+	margin-top: 250px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#words{
+
+	font-size: 16px;
+}
+
+.head{
+	
+}
